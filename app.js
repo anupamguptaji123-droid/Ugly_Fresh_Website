@@ -31,6 +31,14 @@ const products = [
   {id:30,name:"Cherry",category:"fruits",price:150,description:"Cherry is a small, juicy fruit loved for its sweet-tart flavor and bright, vibrant color.",image:"./res/Fruits/cherry.jpg"},
   {id:31,name:"Kiwi",category:"fruits",price:300,description:"Kiwi is a tangy, nutrient-rich fruit known for its vibrant green flesh and refreshing flavor.",image:"./res/Fruits/kiwi.jpg"},
   {id:32,name:"Aloe Vera",category:"herbs",price:100,description:"Aloe vera is a soothing, succulent plant valued for its healing gel and skin-nourishing benefits.",image:"./res/Herbs/aloevera.jpg"},
+  {id:33,name:"imli",category:"fruits",price:20,description:"Imli (tamarind) is a tangy, sweet-sour fruit used in cooking and traditional medicine.",image:"./res/Fruits/imli.jpg"},
+  {id:34,name:"lichi",category:"fruits",price:80,description:"Litchi is a sweet, juicy tropical fruit with a rough red skin and translucent white flesh.",image:"./res/Fruits/lichi.jpg"},
+  {id:35,name:"pineapple",category:"fruits",price:150,description:"Pineapple is a tropical fruit with a spiky exterior and sweet, tangy flesh inside.",image:"./res/Fruits/pineapple.jpg"},
+  {id:36,name:"curry leaves",category:"herbs",price:30,description:"Curry leaves are aromatic leaves used in Indian cooking to add a distinct flavor to dishes.",image:"./res/Herbs/curry.jpg"},
+  {id:37,name:"palak",category:"vegetables",price:50,description:"Palak (spinach) is a leafy green vegetable rich in nutrients and commonly used in Indian cuisine.",image:"./res/Vegetables/palak.jpg"},
+  {id:38,name:"sweet potato",category:"vegetables",price:80,description:"Sweet potato is a starchy root vegetable with a sweet flavor and vibrant orange flesh.",image:"./res/Vegetables/sweetpotato.jpg"},
+  
+
 ];
 
 // ------------------- Cart Helpers -------------------
