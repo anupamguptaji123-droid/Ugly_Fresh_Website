@@ -34,9 +34,9 @@ const products = [
   {id:33,name:"imli",category:"fruits",price:20,description:"Imli (tamarind) is a tangy, sweet-sour fruit used in cooking and traditional medicine.",image:"./res/Fruits/imli.jpg"},
   {id:34,name:"lichi",category:"fruits",price:80,description:"Litchi is a sweet, juicy tropical fruit with a rough red skin and translucent white flesh.",image:"./res/Fruits/lichi.jpg"},
   {id:35,name:"pineapple",category:"fruits",price:150,description:"Pineapple is a tropical fruit with a spiky exterior and sweet, tangy flesh inside.",image:"./res/Fruits/pineapple.jpg"},
-  {id:36,name:"Curry Leaves",category:"herbs",price:30,description:"Curry leaves are aromatic leaves used in Indian cooking to add a distinct flavor to dishes.",image:"./res/Herbs/Curry-Leaves.jpg"},
+  {id:36,name:"Curry Leaves",category:"herbs",price:30,description:"Curry leaves are aromatic leaves used in Indian cooking to add a distinct flavor to dishes.",image:"./res/Herbs/CurryLeaves.jpg"},
   {id:37,name:"palak",category:"vegetables",price:50,description:"Palak (spinach) is a leafy green vegetable rich in nutrients and commonly used in Indian cuisine.",image:"./res/Vegetables/palak.jpg"},
-  {id:38,name:"sweet potato",category:"vegetables",price:80,description:"Sweet potato is a starchy root vegetable with a sweet flavor and vibrant orange flesh.",image:"./res/Vegetables/sweet potato.jpg"},
+  {id:38,name:"sweet potato",category:"vegetables",price:80,description:"Sweet potato is a starchy root vegetable with a sweet flavor and vibrant orange flesh.",image:"./res/Vegetables/sweetpotato.jpg"},
 
 
 ];
